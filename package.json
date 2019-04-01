@@ -2,9 +2,11 @@
   "name": "jouph-redesign",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rekins.github.io/andrey",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "deploy": "gh-pages -d public",
     "lint": "vue-cli-service lint",
     "component": "hygen new component",
     "view": "hygen new view",
@@ -12,6 +14,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
     "reset.scss": "^1.0.0",
     "vue": "^2.6.6",
