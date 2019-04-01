@@ -1,0 +1,5 @@
+$tran-default-duration: 0.15s;
+$tran-default-func: ease-in-out;
+$tran-default-prop: all;
+$tran-default-delay: 0;
+$tran-default: $tran-default-prop $tran-default-duration $tran-default-func;

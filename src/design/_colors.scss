@@ -1,0 +1,22 @@
+/**
+ * prefix: $c-
+ */
+
+$c-soft-red: #c00f0f;
+
+$c-primary: #9f9f9f;
+$c-primary-dark: #616161;
+$c-primary-light: #f5f5f5;
+
+$c-text-dark: #1b1b1b;
+$c-text-light: #fcfcfc;
+$c-text-primary: $c-text-dark;
+$c-text-secondary: #767676;
+
+$c-accent: #507e8d;
+$c-accent-dark: darken($c-accent, 20%);
+$c-accent-light: lighten($c-accent, 20%);
+
+$c-panel: rgba(#9a9a9a, 0.25);
+$c-panel-head: rgba(#212121, 0.5);
+$c-panel-tree-items: $c-panel-head;
