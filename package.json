@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "deploy": "gh-pages -d public",
+    "deploy": "gh-pages -d dist",
     "lint": "vue-cli-service lint",
     "component": "hygen new component",
     "view": "hygen new view",
