@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.125080c76841c0b3c31ef93d3b19b4a8.js"
+  "/Andrey/precache-manifest.f73cd497ed310473888b5fb18cd1dd3e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "andrey-project"});
