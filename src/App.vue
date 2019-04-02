@@ -48,4 +48,17 @@ h5 {
 h6 {
   font-size: 0.8rem;
 }
+
+a {
+  padding: 0.1rem;
+  color: $c-accent;
+  text-decoration: none;
+  border-bottom: 2px solid $c-accent;
+  transition: $tran-default;
+
+  &:hover {
+    color: $c-text-dark;
+    border-bottom-color: $c-text-dark;
+  }
+}
 </style>

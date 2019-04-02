@@ -21,11 +21,19 @@ export default class Home extends Vue {}
     <Layout :class="$style.home__inner">
       <header :class="$style.title">
         <h3 :class="$style.title__title">Практическая часть проекта по системам счисления</h3>
-        <p :class="$style.title__subtitle">Выполнена учеником ........ Андреем(бро)</p>
+        <!-- <p :class="$style.title__subtitle">Выполнена учеником ........ Андреем(бро)</p> -->
       </header>
-      <InDec/>
-      <FromDec/>
-      <TwosComplement/>
+      <InDec :class="$style.home__section"/>
+      <FromDec :class="$style.home__section"/>
+      <TwosComplement :class="$style.home__section"/>
+      <section :class="$style.home__section">
+        Весь код этого сайта можно посмотреть в репозитории
+        <a
+          target="_blank"
+          href="https://github.com/Rekins/Andrey"
+          title="github"
+        >github</a>.
+      </section>
     </Layout>
   </div>
 </template>
@@ -49,13 +57,19 @@ export default class Home extends Vue {}
 
   &__inner {
     display: flex;
-    flex: 1 1 0;
+    // flex: 1 1 0;
     flex-direction: column;
-    padding: $sz-outer-gap 0;
+    padding-top: $sz-outer-gap;
+    padding-bottom: $sz-outer-gap;
 
     > :not(:last-child) {
-      margin-bottom: $sz-outer-gap;
+      margin-bottom: $sz-outer-gap/2;
     }
+  }
+
+  &__section {
+    padding: $sz-inner-gap;
+    border: 2px solid $c-text-dark;
   }
 }
 </style>

@@ -28,6 +28,10 @@ export default class BaseButton extends Vue {
       color: $c-text-light;
       background-color: $c-text-dark;
     }
+
+    &:active {
+      color: $c-text-dark;
+    }
   }
 }
 </style>

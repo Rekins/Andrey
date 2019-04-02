@@ -9,7 +9,7 @@ export default class InDec extends Vue {
 
   res: number = parseInt(this.target, this.radix)
 
-  resKatex: string = `{${this.res}}_{${this.radix}}`
+  resKatex: string = `{${this.res}}_{10}`
 
   errors: string[] = []
 
@@ -42,7 +42,7 @@ export default class InDec extends Vue {
     }
 
     this.res = res
-    this.resKatex = `{${this.res}}_{${this.radix}}`
+    this.resKatex = `{${this.res}}_{10}`
 
     this.calculateSumSteps()
     this.calculateGornerSteps()
@@ -176,8 +176,8 @@ export default class InDec extends Vue {
   }
 
   &__stepsList {
-    list-style-type: decimal;
     padding-left: 2rem;
+    list-style-type: decimal;
   }
 }
 </style>

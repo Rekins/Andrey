@@ -29,6 +29,12 @@ export default class BaseInput extends Vue {
     font-family: $typ-sans-serif;
     background-color: transparent;
     border: 2px solid $c-text-dark;
+    transition: $tran-default;
+
+    &:focus {
+      color: $c-text-light;
+      background-color: $c-text-dark;
+    }
   }
 }
 </style>
