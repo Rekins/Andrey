@@ -32,28 +32,24 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_Size2-Regular.6dbdad7a.woff2"
   },
   {
-    "revision": "aec9a6799841d00923821060d396dad1",
-    "url": "/Andrey/fonts/KaTeX_Size2-Regular.aec9a679.woff"
+    "revision": "2870a8f86e7ba49b457e662b17c4bc20",
+    "url": "/Andrey/fonts/KaTeX_Size1-Regular.2870a8f8.woff2"
   },
   {
     "revision": "f1a090a4c1a36d1d3b1fdc6736db8748",
     "url": "/Andrey/fonts/KaTeX_Size3-Regular.f1a090a4.woff"
   },
   {
+    "revision": "aec9a6799841d00923821060d396dad1",
+    "url": "/Andrey/fonts/KaTeX_Size2-Regular.aec9a679.woff"
+  },
+  {
     "revision": "ecd52e1e2f0cc1b6d4d8d29db4c792c9",
     "url": "/Andrey/fonts/KaTeX_Size4-Regular.ecd52e1e.woff2"
   },
   {
-    "revision": "1571003843c39b73f69bb9ffafc6b51c",
-    "url": "/Andrey/fonts/KaTeX_Size4-Regular.15710038.woff"
-  },
-  {
     "revision": "42a984df9caeef0f96fa6234a41ff1a3",
     "url": "/Andrey/fonts/KaTeX_Caligraphic-Bold.42a984df.woff2"
-  },
-  {
-    "revision": "fe8c221065dcbfe529cd2d201bf6baa6",
-    "url": "/Andrey/fonts/KaTeX_Caligraphic-Bold.fe8c2210.woff"
   },
   {
     "revision": "7f4bec7c908e337d660adcdf9a6abbe7",
@@ -62,6 +58,10 @@ self.__precacheManifest = [
   {
     "revision": "93a79e01c9abee39413ba14acb3e5d33",
     "url": "/Andrey/fonts/KaTeX_Caligraphic-Regular.93a79e01.woff"
+  },
+  {
+    "revision": "fe8c221065dcbfe529cd2d201bf6baa6",
+    "url": "/Andrey/fonts/KaTeX_Caligraphic-Bold.fe8c2210.woff"
   },
   {
     "revision": "91efef29a1be79a5318d77bfb6256213",
@@ -76,24 +76,16 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_SansSerif-Regular.fd6852d4.woff2"
   },
   {
-    "revision": "ec3e4a5540df883fa3147f8a5e83287b",
-    "url": "/Andrey/fonts/KaTeX_Script-Regular.ec3e4a55.woff2"
-  },
-  {
     "revision": "ae1b970213f3e1098abfb03679e22111",
     "url": "/Andrey/fonts/KaTeX_Script-Regular.ae1b9702.woff"
   },
   {
-    "revision": "df2ac4dc4060253c264b85384ec0e2f3",
-    "url": "/Andrey/fonts/KaTeX_Size1-Regular.df2ac4dc.woff"
-  },
-  {
-    "revision": "2870a8f86e7ba49b457e662b17c4bc20",
-    "url": "/Andrey/fonts/KaTeX_Size1-Regular.2870a8f8.woff2"
-  },
-  {
     "revision": "e3717988fb1ebd63efd10fd2e05568bc",
     "url": "/Andrey/fonts/KaTeX_Size2-Regular.e3717988.ttf"
+  },
+  {
+    "revision": "923e515d161a541174ba0f71e1adb54e",
+    "url": "/Andrey/fonts/KaTeX_Size1-Regular.923e515d.ttf"
   },
   {
     "revision": "ae9ca32213bdef3d2b7006c743ffdb8a",
@@ -104,20 +96,16 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_Size4-Regular.b790cf18.ttf"
   },
   {
+    "revision": "1571003843c39b73f69bb9ffafc6b51c",
+    "url": "/Andrey/fonts/KaTeX_Size4-Regular.15710038.woff"
+  },
+  {
+    "revision": "df2ac4dc4060253c264b85384ec0e2f3",
+    "url": "/Andrey/fonts/KaTeX_Size1-Regular.df2ac4dc.woff"
+  },
+  {
     "revision": "c7e386dd35c841d1a8f9e11fd1a11010",
     "url": "/Andrey/fonts/KaTeX_Caligraphic-Bold.c7e386dd.ttf"
-  },
-  {
-    "revision": "d04d48408d923e5bb6883a514481b7d8",
-    "url": "/Andrey/fonts/KaTeX_Caligraphic-Regular.d04d4840.ttf"
-  },
-  {
-    "revision": "8c43064fdc3bf45ee62e8a22e856a793",
-    "url": "/Andrey/fonts/KaTeX_Fraktur-Bold.8c43064f.woff"
-  },
-  {
-    "revision": "b1a879453aae1660b06d5941c50457c5",
-    "url": "/Andrey/fonts/KaTeX_Fraktur-Bold.b1a87945.woff2"
   },
   {
     "revision": "e21a6db7f372856ebfd6a278b56b8c7d",
@@ -136,16 +124,16 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_Main-Italic.c9d5a32d.woff2"
   },
   {
-    "revision": "6091397cdc326cf8c8f7b648e2341483",
-    "url": "/Andrey/fonts/KaTeX_Math-BoldItalic.6091397c.woff"
-  },
-  {
     "revision": "96b229786edd80e54fa2b68c5f032960",
     "url": "/Andrey/fonts/KaTeX_Math-BoldItalic.96b22978.woff2"
   },
   {
-    "revision": "4b3b168e2b5e74b24c10acd7316488d1",
-    "url": "/Andrey/fonts/KaTeX_Math-Italic.4b3b168e.woff2"
+    "revision": "6091397cdc326cf8c8f7b648e2341483",
+    "url": "/Andrey/fonts/KaTeX_Math-BoldItalic.6091397c.woff"
+  },
+  {
+    "revision": "8c43064fdc3bf45ee62e8a22e856a793",
+    "url": "/Andrey/fonts/KaTeX_Fraktur-Bold.8c43064f.woff"
   },
   {
     "revision": "dc91856176c1350f1ee303851a422277",
@@ -156,6 +144,14 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_SansSerif-Bold.e08eb433.woff"
   },
   {
+    "revision": "4b3b168e2b5e74b24c10acd7316488d1",
+    "url": "/Andrey/fonts/KaTeX_Math-Italic.4b3b168e.woff2"
+  },
+  {
+    "revision": "b1a879453aae1660b06d5941c50457c5",
+    "url": "/Andrey/fonts/KaTeX_Fraktur-Bold.b1a87945.woff2"
+  },
+  {
     "revision": "ada012c291bf50cf9a349ceb98df6659",
     "url": "/Andrey/fonts/KaTeX_SansSerif-Italic.ada012c2.woff"
   },
@@ -164,12 +160,16 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_SansSerif-Regular.c789d74a.woff"
   },
   {
-    "revision": "923e515d161a541174ba0f71e1adb54e",
-    "url": "/Andrey/fonts/KaTeX_Size1-Regular.923e515d.ttf"
+    "revision": "d04d48408d923e5bb6883a514481b7d8",
+    "url": "/Andrey/fonts/KaTeX_Caligraphic-Regular.d04d4840.ttf"
   },
   {
     "revision": "efae4055ace527ee04a22212edd721e5",
     "url": "/Andrey/fonts/KaTeX_Typewriter-Regular.efae4055.woff2"
+  },
+  {
+    "revision": "ec3e4a5540df883fa3147f8a5e83287b",
+    "url": "/Andrey/fonts/KaTeX_Script-Regular.ec3e4a55.woff2"
   },
   {
     "revision": "6a862f8ff236e321e04c326a32eb8a49",
@@ -200,12 +200,12 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_Script-Regular.85007a59.ttf"
   },
   {
-    "revision": "b2d929640f68a1bd67eff3ebd331159a",
-    "url": "/Andrey/fonts/KaTeX_AMS-Regular.b2d92964.woff"
-  },
-  {
     "revision": "cd28a1d7203aef546e0f7733d98e8ea9",
     "url": "/Andrey/fonts/KaTeX_AMS-Regular.cd28a1d7.woff2"
+  },
+  {
+    "revision": "b2d929640f68a1bd67eff3ebd331159a",
+    "url": "/Andrey/fonts/KaTeX_AMS-Regular.b2d92964.woff"
   },
   {
     "revision": "9b1486220b5ca974aaceebbf70e1f087",
@@ -220,12 +220,12 @@ self.__precacheManifest = [
     "url": "/Andrey/fonts/KaTeX_Main-Bold.0dee0959.woff"
   },
   {
-    "revision": "a547140c5430ed97183f87d9fa247890",
-    "url": "/Andrey/fonts/KaTeX_Main-Regular.a547140c.woff2"
-  },
-  {
     "revision": "54e5ba96f2f716715619f7b8433f1d36",
     "url": "/Andrey/fonts/KaTeX_Main-Regular.54e5ba96.woff"
+  },
+  {
+    "revision": "a547140c5430ed97183f87d9fa247890",
+    "url": "/Andrey/fonts/KaTeX_Main-Regular.a547140c.woff2"
   },
   {
     "revision": "d081a42411cc6f54d404ee2de6e63a41",
